@@ -26,7 +26,7 @@ I also gained deeper understanding in creating derived columns, developing meani
 
 ---
 
-##  Business Questions Answered
+##  Research Questions
 
 1. **What is the distribution of educational qualifications among employees?**  
 2. **How does the length of service (Joining Year) vary across different cities?**  
