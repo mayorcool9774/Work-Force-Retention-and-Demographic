@@ -79,7 +79,10 @@ These KPIs were derived from the `Decision` column, which was calculated from th
 - **Stacked Bar**: Experience level segmentation  
 - **Dynamic Table**: Leave behavior by education, tier, and benching status  
 - **KPI Cards**: Total staff, Stay count, Leave count
+---
+## 📂 Dataset
 
+- **Source**: [kaggle-Employee dataset](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset)
 
 ---
 
